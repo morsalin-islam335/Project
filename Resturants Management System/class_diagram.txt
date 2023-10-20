@@ -1,0 +1,18 @@
+classes:
+1. User(ABC)
+2. Customer(User)
+3. Employee(User)
+4. Chef(Employee)
+5. Server(Employee)
+6. Manager(Employee)
+7. Cleaner(Employee)
+
+8. Supplier(User)
+9. Adviser(User)
+
+10. Food_item(ABC)
+11. Pizza(Food_item)
+12. Burger(Food_item)
+13. Drinks(Food_item)
+14 Juice(Food_item)
+
