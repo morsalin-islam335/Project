@@ -1,0 +1,17 @@
+School system management:
+    1. Student management
+    2. Teacher management
+    3. Cafeteria management
+    4. Sports management
+    5. Club management
+    6. Events management
+    7. Library management
+    8. Physical Assessment
+    
+Core Functionality
+    1. There will be a classroom consisting of multiple students
+    2. Students can enroll Classes
+    3. Teacher will take classes, exams, they remark exams
+    4. System will generate the overall grade
+
+
