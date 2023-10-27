@@ -438,10 +438,11 @@ def functionality():
 
 
 
-# Calling Main Function
+# Creating a main function
 def main():
     functionality()
-    
+
+# Calling main function
 if __name__ == "__main__":
     # Note that to use proper use you need to copy and paste acount number from automatically generated program
     main()
